@@ -1,0 +1,32 @@
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    height: 70px;
+    width: 100%;
+    background-color: #ec715f;
+    .container {
+      margin: 0 auto;
+      width: 1024px;
+      img{
+        float: left;
+        width: auto;
+        height: 70px;
+      }
+      ul {
+        margin: 0;
+        list-style: none;
+        li {
+          padding: 0 30px;
+          float: right;
+          line-height: 70px;
+          a {
+            color: white;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+  }
