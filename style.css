@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  height: 70px;
+  width: 100%;
+  background-color: #ec715f;
+}
+
+header .container {
+  margin: 0 auto;
+  width: 1024px;
+}
+
+header .container img {
+  float: left;
+  width: auto;
+  height: 70px;
+}
+
+header .container ul {
+  margin: 0;
+  list-style: none;
+}
+
+header .container ul li {
+  padding: 0 30px;
+  float: right;
+  line-height: 70px;
+}
+
+header .container ul li a {
+  color: white;
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
